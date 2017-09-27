@@ -35,3 +35,5 @@ $ jstat -gcutil
 
 #### 案例
 * 高性能硬件 大内存Heap ，偶先长时间卡顿，Old 存储了大对象，Full GC耗时长
+
+![gc-mind-map](../attachement/jvm-gc.png)
